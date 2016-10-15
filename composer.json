@@ -1,0 +1,17 @@
+{
+    "name": "renshan/tc",
+    "description": "A PHP Injection liblary",
+    "type": "liblary",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "renshan",
+            "email": "1005110700@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+		"autoload": {
+			"psr-4": {"":["src/"]}
+		},
+    "require": {}
+}
